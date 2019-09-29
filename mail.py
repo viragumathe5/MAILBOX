@@ -1,3 +1,4 @@
+#importing required libraries
 import sys
 from tkinter import *
 import smtplib
